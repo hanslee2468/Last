@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Phone_Data",
+"dataUrl": "Last.data.unityweb",
+"wasmCodeUrl": "Last.wasm.code.unityweb",
+"wasmFrameworkUrl": "Last.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Last.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
